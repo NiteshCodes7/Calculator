@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Croissant+One&family=Mooli&family=Poppins:wght@100;200&family=Roboto:wght@100;400&display=swap');
+
+html, body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Croissant One';
+    background: url(/wrGnD8.jpg);
+}
+
+.button{
+    padding: 25px;
+    margin: 3px 5px;
+    border: 2px solid black;
+    border-radius: 12px;
+    font-size: 20px;
+    font-weight: bolder;
+    cursor: pointer;
+    width: 80px;
+    background-color:rgb(233, 204, 178);
+}
+
+.button:hover{
+    background-color: rgb(238, 228, 167);
+}
+
+.row{
+    margin: 2px 0px;
+    font-size: 27px;
+}
+
+.row1{
+    margin: 2px 0px;
+    font-size: xx-large;
+}
+
+.row2{
+    margin: 2px 0px;
+    font-size: 27px;
+}
+
+.input{
+    font-size: 27px;
+    padding: 11px 22px;
+    margin: 13px 0px;
+    border: 2px solid black;
+    border-radius: 8px;
+    background-color: rgb(233, 204, 178);
+    cursor: pointer;
+}

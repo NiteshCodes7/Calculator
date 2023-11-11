@@ -1,0 +1,24 @@
+.text-cent{
+    text-align: center;
+    font-size: 40px;
+    margin: 1px;
+    text-decoration: underline;
+    color: #fff;
+}
+
+.m-x{
+    margin: auto;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex-a{
+    flex-direction: column;
+}
+
+.items{
+    align-items: center;
+}
+
